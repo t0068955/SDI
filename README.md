@@ -8,3 +8,4 @@ Repo that will host project files of Software design and implementation module
 B
 
 ## Tutor
+Pedro Trindade
